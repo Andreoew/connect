@@ -2,10 +2,26 @@ POST http://localhost:3333/subscriptions
 Content-Type: application/json
 
 {
-    "name": "André de Souza",
-    "email": "andreoew@hotmail.com"
+    "name": "Usuário indicado 3",
+    "email": "indicado3@gmail.com",
+    "referrer": "d46208a7-4e73-46c4-a6b4-75bf910d8c45"
 }
 
 ###
 
-GET  http://localhost:3333/invites/andre123
+GET  http://localhost:3333/invites/0a3cc016-7b09-4428-8290-135e0bf7554c
+
+###
+
+GET http://localhost:3333/subscribers/0a3cc016-7b09-4428-8290-135e0bf7554c/ranking/clicks
+
+###
+
+GET http://localhost:3333/subscribers/0a3cc016-7b09-4428-8290-135e0bf7554c/ranking/count
+
+###
+GET http://localhost:3333/subscribers/0a3cc016-7b09-4428-8290-135e0bf7554c/ranking/position
+
+###
+
+GET http://localhost:3333/ranking
