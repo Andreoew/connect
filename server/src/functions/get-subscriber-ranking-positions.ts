@@ -7,8 +7,6 @@ interface GetSubscriberRankingPositionParams {
 export async function getSubscriberRankingPosition({
   subscriberId,
 }: GetSubscriberRankingPositionParams) {
-  await redis.hincrby('referral:access-count', subscriberId, 1)
-
   const rank = await redis.zrevrank('referral:ranking', subscriberId)
 
   if (rank === null) {
