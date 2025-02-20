@@ -89,29 +89,22 @@ A documentação automática está disponível no Swagger:
       server.ts/
 ```
 
-## ✒ Autor
+## ✒ Author
 
 <p align="center">
-  <img width="200px" style="border-radius: 50%" alt="André de Souza" title="André de Souza" src="https://github.com/andreoew.png" />
+  <img width="200px" style="border-radius: 50%" alt="Author André de Souza" title="Author André de Souza" src="https://github.com/andreoew.png" />
 
   <h3 align="center">André de Souza</h3>
   
   <p align="center">  
-    Desenvolvido com dedicação e café ☕
+    Done with love and faith not to give up 😅, get in touch!
   </p>
 </p>  
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/andre-de-souza-1b9b59196/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:andreoew@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/andredessilva/)
+[![Gmail Badge](https://img.shields.io/badge/-seutecdev@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seutecdev@gmail.com)](mailto:seutecdev@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-1f6feb?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/VagnerNerves)](https://github.com/andreoew)
+
 </div>
-
----
-
-<p align="center">
-  Feito com 💜 por André de Souza
-</p>
